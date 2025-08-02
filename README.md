@@ -100,6 +100,6 @@ See [`Resources.txt`](./presentation/Resources.txt) for all datasets, research p
 
 **Deepak Patro**  
 📧 [deepakpatro73@@gmail.com](mailto:deepakpatro73@gmail.com)  
-🔗 [LinkedIn]linkedin.com/in/deepak-patro-2a0330228  
+🔗 [LinkedIn](linkedin.com/in/deepak-patro-2a0330228)  
 💻 GitHub: [Deepak8114](https://github.com/deepak8114)
 
