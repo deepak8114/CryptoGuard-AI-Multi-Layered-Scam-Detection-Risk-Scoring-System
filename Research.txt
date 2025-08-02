@@ -1,0 +1,279 @@
+1. Funds stolen from services: A record-breaking trajectory
+The cumulative trend in value taken from services paints a stark picture of 2025’s escalating threat environment. The orange line, which represents 2025’s YTD activity, shows a dramatically steeper trajectory into June than any previous year in our dataset, climbing past the $2 billion mark within the first half of the year.What makes this trend particularly alarming is its velocity and consistency. While 2022 — previously the worst year on record according to our data — required 214 days to crack $2 billion in value stolen from services, 2025 achieved comparable theft volumes in just 142 days. The 2023 and 2024 trend lines show more moderate, steady accumulation patterns.
+
+Currently, 2025 is 17.27% worse than 2022 at the end of June. If this trend continues, we could see 2025 end with more than $4.3 billion stolen from services alone.
+
+2. The ByBit breach: A new benchmark for cybercrime
+The DPRK’s ByBit hack fundamentally altered the 2025 threat landscape. At $1.5 billion, this single incident not only represents the largest crypto theft in history, but also accounts for approximately 69% of all funds stolen from services this year. The sophistication and scale of this attack underscore the evolving capabilities of state-sponsored threat actors in the crypto space, and comes after a notable slowdown in the second half of 2024.
+
+This mega-breach fits within a broader pattern of North Korean cryptocurrency operations, which have become increasingly central to the regime’s sanctions evasion strategies. Last year, known DPRK-related losses totaled $1.3B (heretofore the worst year on record), making 2025 already by far their most successful year to date.
+
+The attack methodology appeared to leverage advanced social engineering tactics similar to those documented in previous DPRK operations, including the infiltration of crypto-related services through compromised IT personnel. This approach has proven devastatingly effective, with Western tech firms having unknowingly hired thousands of North Korean workers, according to recent UN reporting.
+
+3. Personal wallets: The underdocumented frontier for crypto crime
+Chainalysis has developed new methodologies to identify and trace theft activity originating from personal wallets, a category of illicit activity that is by nature underreported but increasingly significant. This enhanced visibility reveals troubling trends in how attackers are diversifying their targets and tactics over time.
+
+Personal wallet compromises make up a growing share of total ecosystem value stolen over time, as reflected in the chart below. The emergence of this trend likely reflects several factors:
+
+Improved security practices at major services, pushing attackers toward individuals perceived as easier targets
+The growing number of individual crypto holders
+The increased value of the crypto held in personal wallets over time, as crypto prices for major assets continues to appreciate
+The development of more sophisticated individual-targeting techniques, potentially facilitated by the growth in easy-to-deploy LLM AI tools
+
+Cryptocurrency	941	Cryptocurrency Wallet	373, Cryptocurrency	$30,801,994	Cryptocurrency Wallet	$20,471,604
+Cryptocurrency	179	Cryptocurrency Wallet	63,  Cryptocurrency	$3,556,781	Cryptocurrency Wallet	$1,632,258
+the most age groups are under 30-40 and above 60years. 
+
+4. The Devastating Impact of Cryptocurrency Scams: 2023 & 2024
+Cryptocurrency scams have consistently been one of the most financially devastating forms of cybercrime, dwarfing losses from traditional hacks in many instances. They leverage a combination of human psychology, technological complexity, and the irreversible nature of blockchain transactions.
+
+5. Astronomical Financial Losses
+Billions Annually: Both 2023 and 2024 saw billions of dollars lost to cryptocurrency scams.
+
+In 2024 alone, an estimated $5.84 billion was lost to scams, accounting for over two-thirds (70.3%) of the total amount drained from both retail investors and Web3 actors. (Source: NEFTURE SECURITY I Blockchain Security / Coinmonks)
+
+Chainalysis estimated $9.9 billion in on-chain scam revenue in 2024, with projections that the final figure could exceed $12 billion as more illicit addresses are identified. (Source: Chainalysis Crypto Crime Report 2024)
+
+Investopedia reports that crypto scams and security breaches cost investors over $10 billion in 2024. (Source: Investopedia)
+
+The FBI's IC3 2024 Annual Report highlights $9.3 billion in losses tied to cryptocurrency-enabled fraud, a 66% increase from the previous year. (Source: TRM Labs via FBI IC3 Report)
+
+For 2023, the FBI's IC3 reported over $5.6 billion in losses related to cryptocurrency fraud. While crypto-related complaints were about 10% of total financial fraud complaints, they accounted for almost 50% of the total losses. (Source: IC3 2023 Cryptocurrency Fraud Report)
+
+Median Loss per Victim: The median loss for investment scam victims continues to be significant. In Q1 2025 (which reflects trends from late 2024), the median loss was $3,021, up from $2,500 in Q1 2024. (Source: The Motley Fool)
+
+Specific Incidents:
+
+The WazirX (Indian exchange) compromise in July 2024 resulted in the unauthorized transfer of around $235 million. (Source: Blockchain Intelligence Group)
+
+The OmegaPro scheme defrauded victims of over $650 million globally.
+
+6. Dominant Scam Types & Their Impact
+While there are many types, the following were particularly devastating:
+
+Investment Scams (including HYIPs and Pig Butchering): These consistently topped the charts for total losses. They lure victims with promises of high, guaranteed returns.
+
+In Q1 2025, investment scams accounted for 48% of all scams involving cryptocurrency, and 60% of all cryptocurrency received by scammers. (Source: The Motley Fool)
+
+Pig butchering scams saw particularly significant growth. Chainalysis reported nearly 40% YoY revenue growth in 2024 for pig butchering scams, with the number of deposits growing by nearly 210% YoY, indicating an expansion of the victim pool. These scams often exploit emotional vulnerabilities, taking months to "fatten the pig" before the final "butchering." (Source: Chainalysis Crypto Crime Report 2024)
+
+Fraudulent Trading Platforms: 87% of all scams reported to the DFPI in 2024 included an element of a fraudulent site or trading platform. These sites appear legitimate, mimicking real platforms, and even showing artificial gains to trick victims into depositing more funds. (Source: International Accounting Bulletin via DFPI)
+
+Address Poisoning and Wallet Drainers: These "scam-as-a-service" offerings reached new heights in 2024. Address poisoning involves sending a small transaction from a similar-looking address to "poison" a target's address book, leading to accidental large transfers later. Wallet drainers trick users into connecting their wallets to malicious sites, then drain their assets. Crypto sent to address poisoning scams grew over 15,000% in 2024. (Source: Chainalysis Crypto Crime Report 2024)
+
+Impersonation Scams: Scammers impersonating legitimate companies (e.g., BlackRock in 2024 cases), government officials, or even individuals (often via social media like Facebook, Instagram, LinkedIn, moving to WhatsApp). They accounted for 27% of DFPI reports. (Source: International Accounting Bulletin via DFPI)
+
+Phishing Scams: Still prevalent, tricking users into revealing sensitive information through fake websites or emails.
+
+7. Demographics & Vulnerabilities
+Older Adults Disproportionately Affected: Individuals aged 60 and older reported over $2.8 billion in losses tied to crypto-related scams in 2024, making them the most financially impacted demographic. The median loss for victims over 80 could be as high as $25,000. (Source: TRM Labs via FBI IC3 Report, The Motley Fool)
+
+Age 30-70 Most Likely to be Victimized: While median losses rise with age, the 30-70 age bracket, particularly 40-49, reported the most investment scams (3,119 reports costing $119 million in Q1 2025). (Source: The Motley Fool)
+
+Social Media as a Primary Contact Method: A significant and growing number of scams (especially investment and pig butchering) start on social media platforms. In Q1 2025, 42% of investment scam victims were contacted via social media. (Source: The Motley Fool)
+
+Lack of Understanding: The technical complexity of blockchain and cryptocurrencies, combined with the promise of easy wealth, makes many new investors vulnerable. The irreversibility of transactions means once funds are sent, recovery is incredibly difficult.
+
+8. Global Reach & Organized Crime
+Transnational Operations: Criminal groups, particularly from China, have established cybercrime hubs in Southeast Asian countries (Cambodia, Laos, Myanmar) specializing in "pig butchering" and other online fraud. (Source: Communications Today via Council on Foreign Relations)
+
+North Korean Involvement: State-sponsored hacking groups like Lazarus have been highly active, stealing billions (e.g., $1.3 billion in 2024 alone), often exploiting private key vulnerabilities and targeting centralized exchanges. (Source: NEFTURE SECURITY / Coinmonks)
+
+"Fraud-as-a-Service": The professionalization of scamming with vendors providing tools and services (e.g., AI service vendors' revenue for scams grew by 1900% in 2024) makes it easier for less sophisticated criminals to operate. (Source: Chainalysis Crypto Crime Report 2024)
+
+9. India's Struggle with Cryptocurrency Scams: 2023 & 2024
+India has become a significant battleground for cryptocurrency scams, given its massive and growing investor base. With 119 million crypto investors in 2024, India topped global crypto adoption for the second year, accounting for nearly one-fifth of all crypto holders worldwide (Source: Chainalysis via Economic Times). This large, often new, investor pool makes it a prime target for fraudsters.
+
+1. Significant Financial Losses & High-Profile Busts
+Hundreds of Crores Lost: While exact aggregate figures for India alone are harder to consolidate due to the decentralized nature of reporting, individual incidents and police/ED actions consistently reveal losses in the hundreds of crores (tens of millions of USD).
+
+₹350 Crore Ponzi Scam: As of January 2025, the CBI busted a major crypto ponzi scam involving transactions of over ₹350 crore (approximately $42 million) that was promoted through social media groups. The illegal proceeds were converted into cryptocurrencies to obscure their origin. (Source: NDTV)
+
+₹1,646 Crore BitConnect Seizure: In February 2025, the Enforcement Directorate (ED) seized cryptocurrencies worth approximately ₹1,646 crore (approximately $197 million) in Ahmedabad, Gujarat, as part of its investigation into the massive BitConnect scam. This involved an Indian national, Satish Kumbhani, accused of defrauding investors of around $2.4 billion globally. (Source: India Today, Economic Times)
+
+WazirX Compromise: In July 2024, the Indian centralized crypto exchange WazirX reportedly suffered a compromise resulting in the unauthorized transfer of around $235 million. (Source: Blockchain Intelligence Group via Sangfor Technologies)
+
+Thane Man Loses ₹47.47 Lakh: A recent example (March 2025) highlights an individual in Thane losing ₹47.47 lakh (approx. $57,000) in a cryptocurrency 'investment' scam. (Source: NDTV)
+
+GainBitcoin Scam: CBI seized cryptocurrencies worth ₹23.94 crore (approx. $2.8 million) in the ongoing GainBitcoin scam investigation (February 2025). (Source: NDTV)
+
+ED Uncovers ₹600 Crore Crypto Fraud: In February 2025, the ED uncovered a ₹600 crore (approx. $72 million) crypto fraud, seizing ₹2.18 crore in search operations. (Source: NDTV)
+
+Himachal Crypto Scam: An earlier case in November 2023 involved agents behind a ₹2,500 crore (approx. $300 million) crypto scam targeting investors in Himachal Pradesh. (Source: NDTV)
+
+Growing Number of Victims: The Delhi High Court in July 2025, while denying bail to an accused in a crypto scam, noted that "a huge number of people had been defrauded" by schemes promising 20-30% returns, and that "more and more victims coming to light." (Source: Times of India)
+
+10. Common Modus Operandi in India
+Indian scams largely mirror global patterns, but certain tactics are particularly prevalent:
+
+Ponzi/High-Yield Investment Programs (HYIPs): Scammers promise unsustainably high, guaranteed returns, often through elaborate referral schemes. The BitConnect and the recent ₹350 crore CBI-busted scam are prime examples.
+
+Fraudulent Trading Platforms: Scam artists create highly convincing fake websites or apps that mimic legitimate crypto exchanges, showing artificial gains to encourage further deposits, before preventing withdrawals. These were cited as 87% of all scams reported to the DFPI (California), indicating a global commonality. (Source: International Accounting Bulletin)
+
+WhatsApp & Telegram Group Scams: A significant entry point for crypto scammers in India. Victims are added to random groups, encouraged to install dubious apps for "crypto trading," shown soaring fake profits, and then denied withdrawals. These often operate from China, Hong Kong, or Myanmar. (Source: CA Mitesh & Associates)
+
+"Job Recruiter" Malware Scams: Scammers use platforms like LinkedIn to reach job seekers, tricking them into installing malware to access their computers and crypto wallets. (Source: Gadgets360)
+
+Impersonation Scams: Scammers impersonate companies, government agencies, or even individuals (often building fake romantic relationships - "pig butchering") to gain trust and extract funds. Social media (Facebook, Instagram, LinkedIn) is a common starting point, with conversations often moving to WhatsApp. (Source: International Accounting Bulletin)
+
+Rug Pulls: Developers create new tokens, heavily market them, and then disappear with investor funds once enough money is collected. This is prevalent in the DeFi space. (Source: CA Mitesh & Associates)
+
+11. Regulatory Environment & Challenges
+India's regulatory stance on crypto has been evolving and, at times, ambiguous, creating a fertile ground for scams:
+
+Unregulated Status: As of July 2025, cryptocurrencies are not recognized as legal tender in India, and the sector is largely unregulated, lacking a comprehensive framework. This despite a 30% tax on crypto income and 1% TDS on transactions introduced in 2022. (Source: KYC Hub, Hindustan Times)
+
+Supreme Court's Push for Regulation: The Supreme Court has repeatedly questioned the central government's prolonged inaction on regulating cryptocurrencies, warning that the absence of a clear legal framework creates a "fertile ground for misuse" and that unregulated Bitcoin trading is "nothing but a more polished form of Hawala." (Source: Hindustan Times, Digital Watch Observatory, Times of India)
+
+PMLA & FIU-IND: To combat money laundering and terror financing, crypto-related profits and Virtual Digital Asset (VDA) service providers (exchanges) were brought under the Prevention of Money Laundering Act (PMLA) in March 2023. This requires exchanges to perform KYC, eKYC, and report suspicious transactions to the Financial Intelligence Unit India (FIU-IND). (Source: Sanction Scanner, PIB)
+
+RBI's Stance: The Reserve Bank of India (RBI) has consistently cautioned against the risks of VCs, though its 2018 ban on banks dealing with crypto was overturned by the Supreme Court in 2020. The RBI is also developing its own Central Bank Digital Currency (CBDC), the Digital Rupee (e₹), as an alternative. (Source: RBI, Sanction Scanner)
+
+Evidentiary Challenges: The Supreme Court has also raised concerns about the "evidentiary challenges that law enforcement might face in the absence of a legal definition or framework for crypto assets." (Source: Hindustan Times)
+
+12. Human Impact & Societal Concerns
+Beyond the financial figures, crypto scams have a deep human toll in India:
+
+Loss of Life Savings: Many victims, drawn by the promise of quick riches, invest their life savings, leading to severe financial distress, mental health issues, and sometimes even suicide (though direct causation is hard to quantify on a large scale, individual reports exist).
+
+Erosion of Trust: The prevalence of scams erodes trust in the legitimate crypto ecosystem and financial technologies more broadly.
+
+Impact on Vulnerable Groups: While all demographics are affected, less tech-savvy individuals or those desperate for quick financial gains are often targeted.
+
+Organized Crime & Illicit Funds: The use of cryptocurrencies in scams, hawala, and other illicit activities (including human trafficking as highlighted by Bitget's report) poses a significant challenge to India's financial integrity and security agencies.
+
+13. Glossary*
+Advance Fee Scam – Scammer requests an upfront payment, promising a future service or huge return on investment.
+
+Affinity Scams – Scammer targets members of an identifiable group (e.g., cultural, religious, or ethnic community) and curries favor with them to rope them into a fraudulent investment opportunity.
+
+AI Investment Scam – An investment scam that involves the promise of high returns on investments through the use of a “proprietary” AI system or automated trading bot.
+
+Asset Recovery Scam – Scam by a third party requiring a fee to “recover” funds lost in a prior fraudulent transaction.
+
+Bait and Switch Scams – A scam to mislead buyers, whereby a seller advertises an appealing but ingenuine offer to sell a financial product or service that the seller does not actually intend to sell. Instead, the seller offers a sub-par, defective, or unwanted product or service. For crypto, this might be most relevant to non-fungible tokens.
+
+Bitcoin Mining Scam – A scam that involves the promotion of a fraudulent investment opportunity related to bitcoin mining. This involves a scammer soliciting an investment opportunity involving the development of a bitcoin mining operation. Scammers will typical purport that invested funds will go into developing the infrastructure necessary to run a bitcoin mining operation (e.g. hardware GPUs, servers, etc.), and that investors will earn a portion of the proceeds from the rewards associated with successfully mining bitcoin.
+
+Crypto Blackmail Scam – Scammer sends emails or physical mails to victims saying they have personal information about the victim or embarrassing or compromising photos or videos. They scammer then threatens to make these things personal information public unless the victim pays them in crypto assets.
+
+Crypto Gaming Scam – Scam involving the use of fake gaming applications (apps) with the intent of stealing crypto from victims. Scammers may advertise the apps as play-to-earn games offering financial incentives for players, but will typically require victims to create a crypto wallet within platform to participate in the game. Victims may be incentivized to deposit additional crypto for in-game rewards and may be misled into thinking they are accumulating rewards through their participation in the game. At a certain point, the scammers may drain victim wallets using malicious programs victims unknowingly activated upon joining the game.
+
+Crypto Job Scam – Scammers impersonate recruiters and offer fake job opportunities with the intent to steal crypto assets and personal information. These opportunities typically offer questionable terms that are too good to be true and may promise monetary rewards or bonuses for completing certain tasks from the comfort of your desk. However these tasks are assigned with the intent of deceive victims to send crypto assets and/or personal information.
+
+Crypto Wallet Drainer Attack – Crypto Wallet Drainers Attacks are a subset of Hacking through the use of a type of malware known as a crypto wallet drainer. Crypto wallet drainers are tools that scammers can use to automate the draining of crypto assets from a victim’s crypto wallet while the victim is interacting with a malicious website posing as a website for crypto projects or trading.
+
+The risk of being exploited by a malware attack extends beyond interacting with obscure or speculative crypto projects and applies to any online engagement with unusual websites that may be malicious. DFPI recommends consumers to exercise caution when interacting with the platforms of lesser-known crypto projects that are more speculative in nature. In addition, DFPI also cautions consumers to check the domain names when accessing websites of well-known crypto projects to ensure they are not interacting with an imposter website.
+
+Fraudulent Trading Platform – Scammer develops a fraudulent website or application and convinces victims to deposit funds to the platform under the guise of providing victims access to a unique investment opportunity. The fraudulent platforms appear legitimate, even going as far as replicating price movements and producing artificial gains.
+
+Hacking – Exploiting a computer system or private network inside a computer with the intent of stealing personal information, such as passwords and bank account information, for financial gain.
+
+High Yield Investment Programs (HYIP) – Ponzi schemes that promise passive income and high returns in short periods of time through an investment of crypto assets. These schemes often offer payment structures similar to that of multi-level marketing or pyramid schemes to recruit new investors, promising early investors a percentage of the profits of other investors they recruit. These schemes are usually heavily promoted through social media and may use paid social media promoters to market their product. Initially, the investment platform will appear legitimate and produce positive returns on a consistent basis. However, scammer will eventually take off with the invested funds and freeze the platform under the guise of technical issues, before completing shutting down the platform.
+
+Identity Theft – Crime in which someone wrongfully obtains and uses another person’s personal data in some way that involves fraud or deception, typically for economic gain (Aka identity fraud).
+
+Imposter Scams – Scammer impersonates a legitimate business, government agent, or well-known figure to gain access to a user’s systems and personal information for financial gain (e.g. to steal the user’s assets).
+
+Investment Group Scam – A scam that involves the use of private messaging rooms/group chats (WhatsApp, Telegram, etc.) to promote a fraudulent investment opportunity. In some cases, victims may be targeted individually by an agent of the scam through social media and coerced into being brought into the group. In others, victims are directly added into an investment group chat. Many times the group chats are led by a “guru” who directs the group followed by an assistant that acts as a second-in-command. Guru’s may be impersonating a well-known public figure or may be falsely portraying themselves as registered professionals. Early on, the guru may give general market advice to to gain the group’s confidence and then push group to trade based on their directions. Agents of the scam may also be in the group chat masquerading as fellow investors using fake accounts or use bots to inflate the number of perceived investors in the group chat.
+
+Liquidity Mining/Yield Farming Scam – Liquidity mining/Yield Farming is an investment strategy used to earn passive income with crypto assets. Investors stake their crypto assets in a decentralized exchange (DEX) or other form of liquidity pool to provide traders with the liquidity to conduct transactions on the platform. In exchange, investors earn rewards in the form of interest, governance tokens, or other rewards. In a liquidity mining/yield farming scam, victims move crypto assets from their wallets to the liquidity mining platform and see the purported returns on a falsified dashboard. Believing their investments to be a success, victims purchase additional crypto assets. Scammers ultimately move all stored crypto and investments made to a scammer-controlled wallet.
+
+Crypto Giveaway/Airdrop Scam – Scammer will compromise or impersonate a prominent public figure (e.g. through AI-created deepfakes) or company and claim to give away free crypto and may use a variety of methods to promote the giveaway such as livestream events, promotion on social media, or offering airdrops on a certain website or platform. However, these promotions typically offer questionable terms that are too good to be true and may either an attempt to elicit payment of crypto assets or may be part of a broader phishing scheme designed to access victim’s private keys, wallet address, and/or other sensitive information.
+
+Pig Butchering Scams – Scammer may use a variety of methods to establish a relationship (either social, romantic, or business focus), and then gain the victim’s confidence and gradually introduce the victim to a fraudulent investment opportunity. In most cases, Scammer will approach victims through social media or dating apps, ask to take the conversation offline (e.g., Whatsapp, WeChat), and then communicate regularly with the victim to establish the relationship. Once Scammer has the victim’s trust, Scammer will then propose an investment opportunity related to crypto assets. Scammer will offer to train the victim to set up an account on an exchange to purchase crypto assets, and then provide a website or wallet address for the victim to transfer funds in order to participate in the investment opportunity. The fraudulent platform investment opportunity is often designed to appear legitimate, and often produces artificial gains to keep the victim engaged in the platform and possibly deposit more funds. However, the victim is never able to withdraw their funds from the site, and may be asked to transfer even more funds before anything can be withdrawn through a variety of excuses (e.g., service fees, IRS taxes, etc.).
+
+Ransomware – Scammer gains access to a victim’s computer systems or private network, encrypts sensitive information or data, and demands a ransom from the victim to restore access to the encrypted information or data upon payment. Scammer will then provide detailed instructions on how to pay the fee to get the decryption key and may accept payment in crypto assets.
+
+Romance or Social Media Scam – Scammer adopts a fake online profile to gain a victim’s affection and trust and then uses the illusion of a romantic or close relationship to manipulate and/or steal from the victim.
+
+Rug Pull Scam – Derived from the expression “pulling the rug out”. Variation of investment scheme where a developer attracts investors to a new crypto project (e.g., a new token or initial coin offering) through online crowdfunding, pumps up the value of the investment, and then pulls out before the project is built, leaving investors with a worthless currency.
+
+Signal Selling Scam – Scammer offer systems or software that claim to provide accurate and profitable trading signals through some sort of proprietary insider knowledge, secret strategies, or automated systems that can lead to significant profits. However, when coupled with the use of a fraudulent trading platform, these trade signals may be completely fabricated and may be used to gain the victim’s confidence and keep them engaged with the fraudulent trading platform.
+
+Tech Support Scam – Tech support scammers want victims to believe they have a serious problem with their computer, like a virus. They want victims to pay for tech support services the victims don’t need, to fix a problem that doesn’t exist. They often ask victims to pay by wiring money, putting money on a gift card, prepaid card or cash reload card, or using a money transfer app because they know those types of payments can be hard to reverse.
+
+14. How Crypto Fraud Affects Investor Behavior
+In the world of financial markets, fraud poses a significant threat, undermining investor trust and leading to misallocation of resources. Cryptocurrency markets present heightened risks of fraud, which draws the attention of regulators, legal experts, and investors. The Securities and Exchange Commission (SEC) has highlighted a key concern: Compared with traditional capital markets, cryptocurrency markets lack comprehensive regulatory oversight and robust investor protection measures.
+Our investigation centers on the fraud case involving the Coinseed crypto trading platform. Established in 2017, Coinseed quickly gained prominence as being user-friendly, particularly among younger and novice investors. However, in February 2021, the platform was sued by the SEC and the New York attorney general. The allegations were grave: selling an illegal security (named CSD token), falsifying the credentials of its top executives, and failing to disclose investor fees. The resolution of this lawsuit in September 2021, culminating in the shutdown of Coinseed, represents a pivotal development in the regulation of cryptocurrency.
+Our analyses employ detailed transaction data from a leading financial data aggregator. This dataset, containing individual bank and credit card transactions, ensures user privacy. We pinpoint Coinseed fraud victims based on their financial transactions with the platform prior to the public revelation of the fraud. Our approach involves comparing the investment behaviors of Coinseed victims with those of other crypto investors with similar characteristics and investment activities in both crypto and traditional capital markets. This comparative analysis allows us to isolate the impact of fraud on investment behavior.
+
+Our key findings reveal a substantial and lasting impact. We observe that victims of crypto platform fraud decrease their investments on similar platforms by approximately 36.5 percent. This reduction underscores a major shift in investment strategies following fraudulent experiences. Importantly, the change is not short-lived; it extends over at least a year, suggesting a profound and enduring effect on the trust and decision-making processes of crypto fraud victims.
+
+Our findings also show that financial literacy plays an important role in shaping investor responses to crypto fraud. We assess financial literacy using factors such as investment experience in traditional markets, income levels, and the extent of news consumption. Notably, investors with higher financial literacy exhibited a greater reduction in their investments in other crypto platforms post-fraud. This suggests that higher financial literacy enables investors to reassess risks and promptly adjust their investment strategies in response to fraudulent experiences. On the other hand, the less pronounced reaction among investors with lower financial literacy points to their increased risk of future crypto fraud. This highlights the need for robust investor protection and thorough education programs, particularly for the less financially literate, to mitigate their vulnerability in cryptocurrency markets.
+
+Crypto fraud can lead to spillover effects on traditional capital markets. We investigate whether this leads to changes in participation in traditional markets due to an erosion of overall trust in the financial system or a flight of funds from tainted crypto markets to traditional ones. We find that crypto-fraud victims significantly reduce their investments in traditional markets, indicating a widespread loss of trust. This result highlights the broad impact of crypto fraud, showing that it influences investor behavior across multiple financial domains.
+
+The financial impact of crypto fraud is large. We find that new monthly investments in crypto and traditional markets fall by around $264.66, representing a 34.7 percent decrease from the average before fraud occurred.
+
+15.New Delhi, Jan 24 (PTI) The CBI has conducted search operations across seven locations after registering a case of Rs 350 crore crypto ponzi scam against seven persons, officials said Friday.
+
+The accused persons were allegedly running seven separate modules based in the cities of Delhi, Hazaribag, Bathinda, Ratlam, Valsad, Pudukkottai and Chittorgarh, taking money from gullible investors promising investments in cryptocurrencies, they said.
+
+"These ponzi schemes were being promoted through multiple social media groups. An analysis of bank account transactions and cryptocurrency wallets has revealed that the illegal proceeds from these schemes were being converted into cryptocurrencies to obscure their origin," CBI's spokesperson said in a statement.
+
+It is alleged that they had conducted transactions of over Rs 350 crore in these schemes, the officials said.
+
+On Thursday, the agency swooped down at locations in Delhi, Jharkhand, Punjab, Madhya Pradesh, Gujarat, Tamil Nadu and Rajasthan.
+
+During the searches, the CBI seized digital virtual assets totalling USD 38,414 (approximately) in the cryptocurrency wallets of the accused persons, which had been digitally secured for investigation.
+
+"The searches resulted in the recovery of cash amounting to ₹34.2 lakh(approx), along with significant digital evidence, including seven mobile phones, one laptop, one tablet, three hard disks, 10 pen drives, memory cards, SIM cards, ATM/debit cards, email accounts, and several incriminating documents," the statement said.
+
+The agency registered the case under Indian Penal Code section 120-B (criminal conspiracy), read with Section 420 (cheating) and Section 66D of the Information Technology Act, 2000, because it was part of an ongoing investigation that predated the introduction of three new criminal laws last year.
+
+"It was alleged that accused persons, acting in criminal conspiracy, have been actively floating various ponzi and fraudulent schemes, promising high returns based on cryptocurrency investments. They are also accused of promoting, promising, and disseminating false and deceptive information to entice investors into these unregulated deposit schemes, which operate without requisite approvals from regulatory authorities such as the Reserve Bank of India (RBI)," the statement said.
+
+The probe has uncovered multiple bank accounts and Virtual Digital Asset (VDA) wallets with cryptocurrency exchanges, including CoinDCX, WazirX, Zebpay, and BitBns, held by the accused members.
+
+"Over two years, these accounts and wallets witnessed transactions exceeding ₹350 crore. The victims were allegedly defrauded by the accused under various pretences, such as online loans, online lucky orders, UPI frauds, and internet banking scams," the CBI said. PTI ABS ZMN
+
+16. AI for Fraud Detection: Everything You Need to Know
+Fraud has gone not only digital, but also AI-driven. As threats grow more sophisticated, AI for fraud detection becomes essential.
+Businesses are up to a new riddle — how to battle fraudsters with artificial intelligence up their sleeve.. This AI superpower already drives big losses, and it is predicted to take even more. 
+
+What exactly am I talking about? 
+
+According to Juniper Research, online payment fraud losses will exceed $343 billion globally between 2023 and 2027. 
+
+However, it’s not only about money. When businesses face fraud challenges and fail to beat them, they also lose:
+
+Reputation
+Operational efficiency
+Time (and sanity)
+And last, but certainly not least, market competitiveness 
+The good news? This isn’t AI fraud vs. businesses — it’s AI fraud vs. AI fraud detection. 
+
+Artificial intelligence, in this case, is neither a bad guy nor a good guy. It’s just a tool that both of them can use. Of course, to outsmart fraudsters, you need to be more strategic about AI fraud detection solutions.
+
+My name is Oleh Komenchuk, I’m an ML lead at Uptech. I’m here to guide you through any AI fraud detection complexities and help you implement AI in a way that would secure your business from fraudsters. 
+
+Let’s begin!
+
+What is AI in Fraud 
+
+17.What is AI in Fraud Detection?
+Let’s talk about the definition of AI fraud detection first. What exactly does it mean? 
+
+In simple terms, AI in fraud detection uses machine learning (ML) and advanced analytics to automatically identify and prevent fraud in payments, identity verification, or online transactions.
+
+How is this different from old-school, rule-based systems? Basically, they’re like fixed checklists — mostly useful, but fraudsters can game them. AI, on the other hand, is a slick detective who: 
+
+Learns from historical data and adapts to new fraud tactics in real-time  
+Can handle insane volumes of data 
+AI doesn't just fight fraud, but also outsmarts most scam schemes. And the best part? It doesn’t get tired, never takes days off, and only gets better with time. That’s definitely a partner you need by your side in modern digital dynamics. 
+AI-Powered Fraud Detection: How It Works
+Now that you understand traditional fraud detection methods, let’s explore fraud detection with AI implementation.
+
+Why are these systems better? How do they actually work? Time to pull back the curtain and examine the mechanics behind them.
+
+AI-powered fraud detection is a complex system of advanced technologies working together to identify, analyze, and prevent fraud with great precision.
+
+Five core components make it possible:
+
+Machine learning models. They detect patterns, classify transactions, and adapt to new fraud tactics.
+Natural language processing (NLP). It analyzes text (emails, claims, chats) for scams or social engineering.
+Anomaly detection systems. They flag outliers in real-time, like unusual logins or payments.
+Predictive analytics. It forecasts risks by combining historical data with real-time signals.
+Graph AI and network analysis. They uncover hidden connections like fraud rings or money laundering.
+With all these smart technologies, AI creates a safety net that is both resistant and smart. It catches what rule-based systems miss, adapts to new scams as they appear, and even helps avoid annoying false alarms that block real customers.
